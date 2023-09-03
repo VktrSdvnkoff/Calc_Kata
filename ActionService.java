@@ -11,6 +11,7 @@ public class ActionService {
                 break;
             case "-":
                 result = first.getValue() - second.getValue();
+                break;
             case "*":
                 result = first.getValue() * second.getValue();
                 break;
